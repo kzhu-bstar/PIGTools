@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="PIGTools">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/PIGTools.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

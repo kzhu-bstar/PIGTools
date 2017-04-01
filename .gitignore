@@ -11,7 +11,8 @@ buildNumber.properties
 .mvn/timing.properties  
   
 #.idea/  
-  
+.idea/workspace.xml
+ 
 ## File-based project format:  
 *.iws  
 *.iml  
